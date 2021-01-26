@@ -1,0 +1,5 @@
+n=input("nhap chuoi so: ")
+l=n.split(',')
+t=tuple(l)
+print(l)
+print(t)
